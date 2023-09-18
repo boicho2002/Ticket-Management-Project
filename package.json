@@ -1,0 +1,15 @@
+{
+  "name": "ticket-management-project",
+  "version": "1.0.0",
+  "description": "DSS-intern-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boicho Boichev",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^1.2.1",
+    "react-scripts": "^2.1.3"
+  }
+}
